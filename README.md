@@ -1,2 +1,2 @@
-# Data-Intensive_Systems_Course
+# Data-Intensive Systems -course
 A repository for a Data-Intensive Systems courses assignments.
